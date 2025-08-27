@@ -8,6 +8,9 @@
   },
   {
     "title": "Fixing Printer Connectivity",
-    "tags": ["Printer", "Bixolon"]
-  }
+    "tags": ["Printer", "Bixolon"],
+    "type": "Document",
+    "url": "https://www.bixolon.com/product_view.php?idx=144",
+    "description": "Support Website for Bixolon F-310II"
+  },
 ]
