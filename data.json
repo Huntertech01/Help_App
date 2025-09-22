@@ -19,5 +19,19 @@
     "type": "Document",
     "url": "https://docs.google.com/spreadsheets/d/1UDwbefyfCJt561Z0XBPNudm9NVcrrG-267NhWxOVejo/edit?usp=sharing",
     "description": "Grease Log For The Tunnel Equipment"
-  }
+  },
+   {
+    "title": "Cleaning Log",
+    "tags": ["Cleaning", "Logs", "Equipment"],
+    "type": "Document",
+    "url": "https://docs.google.com/spreadsheets/d/1DmGr7oFZ7XqxVIupmiLjPmVGstX3UffDX_hBAi6cr-k/edit?usp=sharing",
+    "description": "Cleaning Log For Equipment"
+  },
+     {
+    "title": "Procedures For Hydraulic Control",
+    "tags": ["Hydraulic", "Equipment On", "Equipment Off", "Not Working"],
+    "type": "Document",
+    "url": "https://docs.google.com/spreadsheets/d/1DmGr7oFZ7XqxVIupmiLjPmVGstX3UffDX_hBAi6cr-k/edit?usp=sharing",
+    "description": "How to enable and disable hydraulics on equipment"
+  },
 ]
