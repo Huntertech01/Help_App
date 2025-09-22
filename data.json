@@ -34,4 +34,11 @@
     "url": "https://docs.google.com/spreadsheets/d/1DmGr7oFZ7XqxVIupmiLjPmVGstX3UffDX_hBAi6cr-k/edit?usp=sharing",
     "description": "How to enable and disable hydraulics on equipment"
   },
+       {
+    "title": "Procedures For Adjusting Conveyor Chain",
+    "tags": ["Conveyor Loose", "Chain", "Roller", "Not Working"],
+    "type": "Document",
+    "url": "https://github.com/Huntertech01/Help_App/blob/fdbda03972a58dc3e92af6d495fbe75ff5c630dc/docs/Procedure%20for%20Adjusting%20Conveyor%20Chain.pdf",
+    "description": "How to Add/Remove Conveyor Chain Links"
+  }
 ]
