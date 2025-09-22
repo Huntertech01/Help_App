@@ -12,5 +12,12 @@
     "type": "Document",
     "url": "https://www.bixolon.com/product_view.php?idx=144",
     "description": "Support Website for Bixolon F-310II"
+  },
+  {
+    "title": "Grease Log",
+    "tags": ["Grease", "Logs", "Equipment"],
+    "type": "Document",
+    "url": "https://docs.google.com/spreadsheets/d/1UDwbefyfCJt561Z0XBPNudm9NVcrrG-267NhWxOVejo/edit?usp=sharing",
+    "description": "Grease Log For The Tunnel Equipment"
   }
 ]
