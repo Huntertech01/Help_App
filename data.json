@@ -40,5 +40,11 @@
     "type": "Document",
     "url": "https://github.com/Huntertech01/Help_App/blob/fdbda03972a58dc3e92af6d495fbe75ff5c630dc/docs/Procedure%20for%20Adjusting%20Conveyor%20Chain.pdf",
     "description": "How to Add/Remove Conveyor Chain Links"
-  }
+  },
+      {
+    "title": "Making Prepline",
+    "tags": ["Prepline", "Broken Line"],
+    "type": "Document",
+    "url": "https://github.com/Huntertech01/Help_App/blob/main/docs/PreplineMaking.pdf",
+    "description": "How to make new prepline"
 ]
